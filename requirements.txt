@@ -1,0 +1,7 @@
+pytorch
+torchvision
+opencv-python
+gdown
+dlib
+pandas
+numpy
