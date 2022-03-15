@@ -105,3 +105,5 @@ if __name__ == "__main__":
         \tBest Test Loss: {best_test_loss:.4f}'''
 
         print(info)
+
+    torch.save(model.state_dict(), 'src/models/model.pth')
