@@ -1,5 +1,5 @@
 # Emojify
-Emojify is a fun weekend project built for purpose of learning computer vision and opencv tools. The tech stack involves following 
+Emojify is a project built for purpose of learning computer vision and opencv tools. Basically it gives masks a filter based on the emotion of the user. The tech stack involves following 
 - Pytorch (for building model)
 - dlib (for face detection)
 - Open CV (almost entire project)
